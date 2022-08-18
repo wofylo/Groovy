@@ -8,7 +8,6 @@ list.each {
     println it
 }
 
-
 def strlist = "1,2,3,4"
 def strlist2 ="5,6,7,8"
 lists= strlist.tokenize(',')

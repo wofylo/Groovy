@@ -13,7 +13,7 @@ hosts = str2.split(',')
 for (i in hosts) {
     println(i)
 }
-
+println("str2 contains host01: "+str2.contains('host01'))
 name = "jks"
 println("hello ${name}")
 println('hello ${name}')
